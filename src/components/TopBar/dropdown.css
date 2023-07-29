@@ -1,0 +1,13 @@
+.button{
+    width: 60px;
+    height: 30px;
+    background-color: rgb(146, 146, 181);
+    border-radius: 10px;
+}
+
+ul li {
+    padding: 15px;
+    align-items: center;
+    justify-items: center;
+
+}

@@ -1,0 +1,26 @@
+.sidebar{
+    flex: 2;
+    background-color: rgb(227, 203, 226);
+    height: 90vh;
+    border-radius: 30px;
+    margin: 10px;
+}
+
+.sidebarwrapper{
+    padding: 10px;
+}
+.sidebarlist{
+    list-style-type: none;
+    justify-items: center;
+    align-items: center;
+}
+.sidebarlistitems{
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    justify-items: center;
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

@@ -1,0 +1,14 @@
+.RightBar{
+    flex: 6;
+}
+.address-div{
+    padding: 20px;
+    margin-bottom: 50px;
+}
+.geo{
+    padding: 20px;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-items: space-between;
+}

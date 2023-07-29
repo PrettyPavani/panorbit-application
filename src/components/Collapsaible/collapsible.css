@@ -1,0 +1,25 @@
+.chat-button{
+    width: 350px;
+    padding: 10px;
+    background-color: blue;
+    border: none;
+        
+}
+.container{
+    width: 300px;
+}
+.main-conatiner{
+    border: 1.5px solid black;
+    width: 350px;
+    margin-bottom: -60px;
+}
+ul li {
+    padding: 15px;
+    overflow: auto;
+
+}
+.image-container img{
+    width: 30px;
+    height: 30px;
+    margin-top: -60px;
+}
